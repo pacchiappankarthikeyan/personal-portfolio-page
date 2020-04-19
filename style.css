@@ -1,15 +1,13 @@
 * {
-  font-family: JetBrains Mono,Arial,Calibri;
+  font-family: Helvetica, Arial, sans-serif;
   max-width: 700px;
   margin: auto;
+
 }
-p
-{
-  font-size: 12px;
-  margin-left: 2em;
-  margin-right: 1em;
-  margin-top: 10px;
-  margin-bottom: 10px;
+
+body {
+    min-width: 500px;
+    background-color: #e0eeee;
 }
 ul,ol
 {
@@ -20,10 +18,12 @@ ul,ol
   margin-bottom: 10px;
 }
 
-body{
+body
+{
   min-width: 500px;
   background-color: aliceblue;
 }
+
 .profileBody {
   display: inline-block;
   background-color: white;
