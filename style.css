@@ -1,6 +1,7 @@
 * {
   font-family: Helvetica, Arial, sans-serif;
   max-width: 700px;
+  max-height: 150 px;
   margin: auto;
 
 }
@@ -18,7 +19,7 @@ ul,ol
   margin-bottom: 10px;
 }
 
-body
+p
 {
   min-width: 500px;
   background-color: aliceblue;
